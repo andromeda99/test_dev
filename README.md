@@ -1,1 +1,2 @@
-This is a Git class
+This is a Git class ^& second week
+
